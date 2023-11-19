@@ -1,4 +1,4 @@
-# CSE231 Project 11
+# CSE231-Project-11
 
 **Overview**
 <br>
